@@ -15,13 +15,12 @@ A simple and modern To-Do List application built with React.
 
 ## Technologies Used
 
-- React (with Hooks)
+- React 
 - JSX
 - CSS
 - JavaScript
 - localStorage API
 - SVG for icons
-- Created using Create React App
 
 ## Getting Started
 
